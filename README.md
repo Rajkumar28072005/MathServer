@@ -144,7 +144,8 @@ urlpatterns = [
 
 ## HOMEPAGE:
 
-![Screenshot 2024-04-08 233300](https://github.com/Rajkumar28072005/MathServer/assets/144980101/766224ec-0350-449b-b97b-d76ba30cc685)
+![WhatsApp Image 2024-04-23 at 10 42 47_0298c243](https://github.com/Rajkumar28072005/MathServer/assets/144980101/6db3d68b-cc2b-4ce8-ae3a-5ea770699dad)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
